@@ -1,0 +1,9 @@
+https://www.w3schools.com/python/matplotlib_pie_charts.asp
+https://www.geeksforgeeks.org/python-statistics-mean-function/
+https://appdividend.com/2019/01/28/python-statistics-tutorial-mean-function-example
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html
+https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html
+https://pbpython.com/pandas_dtypes.html
+https://seaborn.pydata.org/generated/seaborn.countplot.html
+https://pbpython.com/pandas_dtypes.html
+https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia
